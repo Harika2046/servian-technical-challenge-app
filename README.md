@@ -73,7 +73,7 @@ No modules.
 
 *Deployment Architecture Overview*  
 
-| ![Actions](Resources/TechApp%20Architecture.png) |
+![Actions](Resources/TechApp%20Architecture.png)
 
 # 8. Deployment
 ### GitHub Actions (Automated Process) -- Recommended
